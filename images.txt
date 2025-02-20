@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/itclj/elasticsearch:8.10.2
+docker.elastic.co/elasticsearch/elasticsearch:8.10.2
