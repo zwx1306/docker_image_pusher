@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/db:1.4.3
+registry.cn-hangzhou.aliyuncs.com/itclj/elasticsearch:8.10.2
