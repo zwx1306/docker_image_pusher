@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/db:1.6.4
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
